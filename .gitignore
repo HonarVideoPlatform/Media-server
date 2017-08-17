@@ -1,0 +1,21 @@
+github-php-client
+bin
+.gradle
+.idea
+*.iml
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+build
+
+**/node_modules
+
+Utils/CongestionTest/samples
+Utils/CongestionTest/logs/Test.log
+Utils/CongestionTest/logs/testResult.log
+Utils/CongestionTest/config/local.json
+
+KalturaWowzaServer/gradle.properties
